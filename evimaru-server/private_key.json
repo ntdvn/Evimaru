@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "moonlit-oven-224505",
+  "private_key_id": "8f85c48385f8dcbc9c5e1ce7581ec73316e5fe88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+LxYnlT+Ysi54\nGbQu7MXAxTAwxY+G30N+oWIo4Z1o0yCoreDfbuu+OR6jQRDoCbaLblWEJUH7/LS/\nEXWtz/ZuuN2kiY2GmM5o/RzkowNUOg8AGpTrRK8qf0AnXbq/RC5JHT3jhc5otLnX\nOO0vLJRKx+E63LhZ9iczLOmj++ag91chZ7jmyzj9IylvE6ls822wVVi9aalSvCJ9\na25xgbCt2Zbp0AK0C8jDc0jRTt4ja4QF4rTGqTt+aLn92EJRUXnnpLqNVNczY3I8\nZbDXIUzhuqTuOKLgmQul5QVbVEEZweg+x1oDMW7MuR+U8sBMzjreNSMeaTJwDrTi\nAaltx7eVAgMBAAECggEAI45REYhtMeKKHokLr0Qz+oTDLDMbUMdX6opIfEUl9S2X\nqwGLC6rEpzUtna7x9reuKaYwlbqTegV2U0xz2FGLjIrCYVsYGwRhfq5novU5D5ul\nJ0tQ8SVPrF3LBDEZU13vW1r8sZdYDipPnkW1zj6C4PI6kRMn4iXLkV1BtxdGuGwC\n8tN1jwtBFpH43N/fiK/Sy7jYBYqExD9WAlk5RWJ1a3oiaqc6m2M5JvbvgvvlVlwx\nhIO79rrmAbFYrE+Cxfp+mrDJtauaKrJT5qGdWDjAd6G2g/co6LOi90BCjVWFlWjX\na2L+5xgqmPgBezDzH4YIVrNE7oCmC7VfK3m3pYu6dwKBgQDq7En9Ei4TPZG3bFK6\ngbJeTvmjkiSkZa1B90iT87NHt6OxF+PRN2vl7W/ClTssJ6Bb4AilnwbgR/+2Kk35\nsbK1bpRaSCWeQZx1YthWHtL/W48p0jzkLmpkrVHMKdcmsh2Hs4uzWFzm8/PVeA+D\nEb7WaK2CZAouGrBrZgR1VlcjMwKBgQDPPzsKHn90aq+uD/wghPN+GwGZOeJHl5x3\n38E5pkXHnzqcijEIWD3iJH/E6t11fbBlAcCvK4CeVOWuE0hyJmOtqd+3ez2Ju+8y\nESEKvgdateB4LjLy3CrLOVHnRGVb8yafHaBfnc0xZXIc3Qm4A1gFk3KDEv12l/f7\nzgUj+h46FwKBgHlcF9zkx2ipJd3b1+EBn2OY6N3XYZaL8DVjydqkyrkB5U5XSRmL\nx/G/9zxOW4Mz9WOBGPZ2cNbsWu2AbUfQxMF1nq4FF2np+ympJplW0ymX4x13vn0i\nfVQFNXyDIOKcoSS5XDIKM/Qbkpt0qo7LXArniLsTcy7eGsVgrmzvbZSBAoGAG5jo\n7L0I7eCzCjO4uD/cCMPh35yUpEHtJQ1XtqyMiDuM24GPa/QMMYv4s6ku2lFlZt3n\n4auiUfMuLpMEx6aTCXIgh1dS539uJ7WeN8b8RbkIbhiA0lQ9Ipi8blZuRONJFlEk\npPbndxdyLaPFgop3cy6iRhAGTn+IFzDlAFhzI/sCgYArLOlbUWA1kDtK5UtLRclL\nXVQ2IoltEOIjTjUcuxZqVGq+/+lIGSkt2dO/WZX9t2linEe4XnHe6A8geIIY2EmJ\nAMYZtorlqm0zKscxyes5OO90yCMTd7prt1HMT4lO0soJDB/lRlYq81G/BJB1TiTz\nc/Ya0R8MAhgJ/fiVyHspcA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveapi@moonlit-oven-224505.iam.gserviceaccount.com",
+  "client_id": "110293545189025776885",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveapi%40moonlit-oven-224505.iam.gserviceaccount.com"
+}
